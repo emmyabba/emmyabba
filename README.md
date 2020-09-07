@@ -1,7 +1,7 @@
 ### Helloooo 👋
 
-For all you know, I am the greek God ODIN.
+初心.
 
 I blog about tech stuff on [Devto](https://dev.to/gr8nexx)
 
-Follow me on [twitter](https://twitter.com/gr8nexx)
+Say *hi* on [twitter](https://twitter.com/gr8nexx)
