@@ -1,7 +1,8 @@
 ## Hi 👋
 I am Emmanuel.
 
-I won't say everyone can learn to code, but everyone can try and just maybe, everyone can learn to code. 
+**Ask me about:** Developer Advocacy, Program Management, Community Management, PHP, Laravel , codeigniter, ReactJS, VueJS, Performance, PWA, Testing, Open Source, Web.
+ 
 
 
 I blog about tech stuff on [Devto](https://dev.to/gr8nexx)
@@ -9,3 +10,6 @@ I blog about tech stuff on [Devto](https://dev.to/gr8nexx)
 Say *hi* on [twitter](https://twitter.com/gr8nexx)
 
 初心.
+
+
+![Profile views](https://gpvc.arturio.dev/[emmyabba])
