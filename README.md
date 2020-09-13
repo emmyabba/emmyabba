@@ -1,10 +1,8 @@
 ## Hi 👋
 I am Emmanuel.
 
-**Ask me about:** Developer Advocacy, Program Management, PHP, Laravel , codeigniter, ReactJS, VueJS, Performance, PWA, Testing, Open Source, Web, cybersecurity.
+**Ask me about:** PHP, Laravel , codeigniter, ReactJS, VueJS, Nodejs, Performance, PWA, Testing, Open Source, Web, cybersecurity, Developer Advocacy, Program Management, 
  
- ⚡️ **What I do:** 
-
 
 I blog about tech stuff on [Devto](https://dev.to/gr8nexx)
 
