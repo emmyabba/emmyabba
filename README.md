@@ -12,4 +12,4 @@ Say *hi* on [twitter](https://twitter.com/gr8nexx)
 初心.
 
 
-![Profile views](https://gpvc.arturio.dev/[emmyabba])
+![Profile views](https://gpvc.arturio.dev/emmyabba)
